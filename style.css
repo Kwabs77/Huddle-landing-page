@@ -157,6 +157,7 @@ footer .orient-socialmedia{
     nav.orient{
         flex-direction: row;
     }
+    
     .orient{
               flex-direction: column;          
               align-items: center;
