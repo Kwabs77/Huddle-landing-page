@@ -20,7 +20,7 @@ p{
 
 .container{
     margin: 0 auto;
-    width: 1000px;
+    width:1000px;
     max-width: 100%;
 }
 
@@ -44,7 +44,7 @@ header{
 }
 
 .orient{
-    display: flex;
+    display:flex;
     align-items: center;    
 }
 
@@ -162,7 +162,6 @@ footer .orient-socialmedia{
               flex-direction: column;          
               align-items: center;
               
-    
     }
     body{
         text-align: center;
